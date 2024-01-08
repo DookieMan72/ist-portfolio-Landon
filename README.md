@@ -10,3 +10,9 @@ git add .
 git commit -m "commit message"
 git push
 ```
+
+![Tux](Large-Dill-Pickle-2.jpg)
+
+To autocomplete filenames in vim 
+- Ctrl+x Ctrl+f
+- Ctrl+n to cycle through options
